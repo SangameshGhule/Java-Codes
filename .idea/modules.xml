@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaArrays/JavaArrays.iml" filepath="$PROJECT_DIR$/JavaArrays/JavaArrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaCodes/JavaCodes.iml" filepath="$PROJECT_DIR$/JavaCodes/JavaCodes.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ProjectBasic.iml" filepath="$PROJECT_DIR$/.idea/ProjectBasic.iml" />
     </modules>
