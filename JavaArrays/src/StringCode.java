@@ -9,6 +9,10 @@ public class StringCode {
 
     public static void main(String[] args) {
 
+        String nm="== Learn Java ==  ";
+        System.out.println(nm);
+        System.out.println(nm.stripTrailing());
+
         StringBuilder output = new StringBuilder("{}");
         System.out.println("^"+ output.insert(1,"Sangamesh"));
         output.append("Sangamesh");
