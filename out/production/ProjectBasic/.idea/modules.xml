@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CollectionJava8/CollectionJava8.iml" filepath="$PROJECT_DIR$/CollectionJava8/CollectionJava8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FIleBasic/FIleBasic.iml" filepath="$PROJECT_DIR$/FIleBasic/FIleBasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileIOStream/FileIOStream.iml" filepath="$PROJECT_DIR$/FileIOStream/FileIOStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaArrays/JavaArrays.iml" filepath="$PROJECT_DIR$/JavaArrays/JavaArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaPrograms/JavaPrograms.iml" filepath="$PROJECT_DIR$/JavaPrograms/JavaPrograms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaStringMethods/JavaStringMethods.iml" filepath="$PROJECT_DIR$/JavaStringMethods/JavaStringMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JsonFileReader/JsonFileReader.iml" filepath="$PROJECT_DIR$/JsonFileReader/JsonFileReader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pattern/Pattern.iml" filepath="$PROJECT_DIR$/Pattern/Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ProjectBasic.iml" filepath="$PROJECT_DIR$/.idea/ProjectBasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RestTemplate/RestTemplate.iml" filepath="$PROJECT_DIR$/RestTemplate/RestTemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SkandNegoRate/SkandNegoRate.iml" filepath="$PROJECT_DIR$/SkandNegoRate/SkandNegoRate.iml" />
+    </modules>
+  </component>
+</project>
