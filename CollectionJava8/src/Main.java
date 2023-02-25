@@ -76,6 +76,7 @@ public class Main {
         System.out.println(sumList);
 
 
+
         System.out.println("*****************************************************");
 
         ArrayList<Integer> integr = new ArrayList<>(List.of(3, 5, 2, 7, 8, 4, 3, 9, 6));
