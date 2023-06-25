@@ -1,0 +1,5 @@
+			FileReader ----> It will read the data character by character (slow performance)
+
+			BufferedReader ---> It will read the data line by line
+
+			Files.lines(Path path) ---> It will read all lines at a time and returns as a Stream
