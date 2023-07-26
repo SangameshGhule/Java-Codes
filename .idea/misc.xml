@@ -5,7 +5,10 @@
     <option name="originalFiles">
       <list>
         <option value="$USER_HOME$/Downloads/demo/pom.xml" />
-        <option value="$USER_HOME$/Downloads/rest/pom.xml" />
+        <option value="$USER_HOME$/Downloads/demo (4)/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/java8feature/pom.xml" />
+        <option value="$PROJECT_DIR$/DateTime/pom.xml" />
+        <option value="$PROJECT_DIR$/STREAMS/src/main/resources/archetype-resources/pom.xml" />
       </list>
     </option>
   </component>

@@ -15,14 +15,10 @@ public class DateTime {
         a=a.plusDays(4);   //deliverydate
         System.out.println(a);
         System.out.println(a.compareTo(b));
+
         if(a.compareTo(b)>0){
             System.out.println("processed");
         }
-
-
-
-
-
     }
 
 }

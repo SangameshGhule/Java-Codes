@@ -3,6 +3,8 @@
   <component name="CompilerConfiguration">
     <excludeFromCompile>
       <directory url="file://$PROJECT_DIR$/FileBasicOperations/src/main/resources/archetype-resources" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/DateTime/src/main/resources/archetype-resources" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/STREAMS/src/main/resources/archetype-resources" includeSubdirectories="true" />
     </excludeFromCompile>
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
@@ -10,20 +12,28 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="java8feature" />
         <module name="demo" />
-        <module name="rest" />
+        <module name="demo (1)" />
+        <module name="DateTime" />
+        <module name="archetype-resources" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="FileBasicOperations" target="1.5" />
       <module name="JsonOperations" target="1.5" />
       <module name="JsonReadOperations" target="13" />
+      <module name="rest" target="1.5" />
+      <module name="SpringSchedular" target="17" />
+      <module name="STREAMS" target="1.5" />
+      <module name="untitled" target="1.5" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="demo" options="-parameters" />
-      <module name="rest" options="-parameters" />
+      <module name="demo (1)" options="-parameters" />
+      <module name="rest" options="" />
     </option>
   </component>
 </project>

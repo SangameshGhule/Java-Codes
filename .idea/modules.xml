@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CollectionJava8/CollectionJava8.iml" filepath="$PROJECT_DIR$/CollectionJava8/CollectionJava8.iml" />
       <module fileurl="file://$PROJECT_DIR$/CollectionJava8_1/CollectionJava8_1.iml" filepath="$PROJECT_DIR$/CollectionJava8_1/CollectionJava8_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExceptionExamples/ExceptionExamples.iml" filepath="$PROJECT_DIR$/ExceptionExamples/ExceptionExamples.iml" />
       <module fileurl="file://$PROJECT_DIR$/FIleBasic/FIleBasic.iml" filepath="$PROJECT_DIR$/FIleBasic/FIleBasic.iml" />
       <module fileurl="file://$PROJECT_DIR$/FileIOStream/FileIOStream.iml" filepath="$PROJECT_DIR$/FileIOStream/FileIOStream.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaArrays/JavaArrays.iml" filepath="$PROJECT_DIR$/JavaArrays/JavaArrays.iml" />
@@ -14,6 +15,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/ProjectBasic.iml" filepath="$PROJECT_DIR$/.idea/ProjectBasic.iml" />
       <module fileurl="file://$PROJECT_DIR$/RestTemplate/RestTemplate.iml" filepath="$PROJECT_DIR$/RestTemplate/RestTemplate.iml" />
       <module fileurl="file://$PROJECT_DIR$/SkandhNR/SkandhNR.iml" filepath="$PROJECT_DIR$/SkandhNR/SkandhNR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/double/double.iml" filepath="$PROJECT_DIR$/double/double.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interview examples/interview examples.iml" filepath="$PROJECT_DIR$/interview examples/interview examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/methodOverrind/methodOverrind.iml" filepath="$PROJECT_DIR$/methodOverrind/methodOverrind.iml" />
     </modules>
   </component>
 </project>
